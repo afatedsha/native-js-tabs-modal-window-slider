@@ -1,2 +1,8 @@
-# native-js-tabs-modal-window-slider
+## native-js-tabs-modal-window-slider
 Нативный js, табы, модалка, слайдеры
+
+# Задача 
+Написать на чистом JS
+* Табы
+* Модальное окно
+* Слайдеры
